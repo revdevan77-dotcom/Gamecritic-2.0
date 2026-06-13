@@ -1,2 +1,2 @@
-# Gamecritic-2.0
+# Gamecritiq-2.0
 Tempat review game
